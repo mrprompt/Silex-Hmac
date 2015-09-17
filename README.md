@@ -5,8 +5,6 @@
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/mrprompt/silex-hmac-provider.svg)](http://isitmaintained.com/project/mrprompt/silex-hmac-provider "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/mrprompt/silex-hmac-provider.svg)](http://isitmaintained.com/project/mrprompt/silex-hmac-provider "Percentage of issues still open")
 
-a simple dependency injection container to Silex.
-
 # Install
 
 ```
