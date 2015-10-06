@@ -6,7 +6,15 @@
   "authors": [
     {
       "name": "Thiago Paes",
-      "email": "mrprompt@gmail.com"
+      "email": "mrprompt@gmail.com",
+      "homepage": "http://www.mrprompt.com.br",
+      "role": "Developer"
+    },
+    {
+      "name" : "Marcel Araujo",
+      "email" : "admin@marcelaraujo.me",
+      "homepage" : "http://blog.marcelaraujo.me",
+      "role" : "Developer"
     }
   ],
   "autoload": {
