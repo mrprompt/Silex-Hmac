@@ -1,5 +1,5 @@
 {
-  "name": "SilexFriends/Hmac",
+  "name": "silexfriends/hmac",
   "description": "A simple HMAC provider to Silex Rest APIs.",
   "type": "library",
   "license": "MIT",

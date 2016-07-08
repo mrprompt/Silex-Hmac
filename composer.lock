@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "27c5c467f834f74f5d236ebccdb310ff",
-    "content-hash": "277b80fce101aefd881820104b3a3f41",
+    "hash": "cf419a34dee8de47033c4d647e04d4a0",
+    "content-hash": "9e37e7bd498b9a1f6ca44cc38970c7c5",
     "packages": [
         {
             "name": "mardy-git/hmac",
