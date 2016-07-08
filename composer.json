@@ -1,8 +1,8 @@
 {
-  "name": "mrprompt/silex-hmac-provider",
+  "name": "SilexFriends/Hmac",
   "description": "A simple HMAC provider to Silex Rest APIs.",
   "type": "library",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "authors": [
     {
       "name": "Thiago Paes",
@@ -19,8 +19,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "MrPrompt\\Silex\\Hmac\\": "src/Hmac/",
-      "MrPrompt\\Tests\\Silex\\Hmac\\": "tests/Hmac/"
+      "SilexFriends\\Hmac\\": "src/Hmac/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "SilexFriends\\Tests\\Hmac\\": "tests/Hmac/"
     }
   },
   "require": {

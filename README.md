@@ -9,7 +9,7 @@
 # Install
 
 ```
-composer require mrprompt/silex-hmac-provider
+composer require SilexFriends/Hmac
 ```
 
 ## Testing

@@ -5,9 +5,9 @@
  *
  * @license http://opensource.org/licenses/BSD-3-Clause BSD-3-Clause
  */
-namespace MrPrompt\Tests\Silex\Hmac;
+namespace SilexFriends\Tests\Hmac;
 
-use MrPrompt\Silex\Hmac\Hmac;
+use SilexFriends\Hmac\Hmac;
 use PHPUnit_Framework_TestCase;
 use Silex\Application;
 
