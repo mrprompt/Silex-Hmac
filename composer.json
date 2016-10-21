@@ -1,5 +1,5 @@
 {
-  "name": "silexfriends/hmac",
+  "name": "mrprompt/silex-hmac-provider",
   "description": "A simple HMAC provider to Silex Rest APIs.",
   "type": "library",
   "license": "MIT",
@@ -19,12 +19,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "SilexFriends\\Hmac\\": "src/Hmac/"
+      "SilexFriends\\Hmac\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "SilexFriends\\Tests\\Hmac\\": "tests/Hmac/"
+      "SilexFriends\\Tests\\Hmac\\": "tests/"
     }
   },
   "require": {
